@@ -50,7 +50,6 @@ header a:active {
 header a:focus {}
 
 article {
-    background-color: #fffff0;
     clear: both;
     padding: 0 10px 0 10px;
 }
