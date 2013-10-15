@@ -67,6 +67,15 @@ article h2 {
 }
 
 footer {
-    font-size: 12px;
-    padding: 0 10px 0 10px;
+    background-color: #000000;
+    color: #ffffff;
+    height: 25px;
 }
+
+footer h1 {
+    font-size: 12px;
+    float: center;
+    font-weight: 500;
+}
+    
+    
