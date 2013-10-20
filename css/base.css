@@ -10,6 +10,11 @@ body {
     line-height: 24px;
 }
 
+img {
+    float: left;
+    padding: 10px;
+}
+
 p {
     margin-bottom: 16px;
 }
@@ -51,7 +56,7 @@ header a:focus {}
 
 article {
     clear: both;
-    padding: 0 10px 0 10px;
+    padding: 10px 10px 10px 10px;
 }
 
 article h1 {
@@ -67,6 +72,7 @@ article h2 {
 }
 
 footer {
+    padding: 5px;
     background-color: #000000;
     color: #ffffff;
     height: 25px;
@@ -77,5 +83,4 @@ footer h1 {
     float: center;
     font-weight: 500;
 }
-    
-    
+
