@@ -66,6 +66,7 @@ article {
 }
 
 article h1 {
+    text-align: center;
     font-size: 36px;
     line-height: 44px;
     margin-top: 4px;
@@ -89,6 +90,7 @@ footer {
 }
 
 footer h1 {
+    text-align: center;
     font-size: 12px;
     float: center;
     font-weight: 500;
