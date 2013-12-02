@@ -96,3 +96,38 @@ footer h1 {
     font-weight: 500;
 }
 
+@media screen and (max-width: 600px) {
+
+header a {
+        color: #00ccff;
+}
+        
+h1, h2 {
+    text-align: center;
+}
+    
+article h1 {
+        font-size: 32px;
+}
+
+article h2 {
+        font-size: 26px ;
+}
+    
+article h3, h4 {
+        text-align: center;
+        font-weight: 600;
+}
+    
+article p {
+        text-align: center;
+        font-size: 14px;
+        width: 90%
+}
+
+article ul {
+        text-align: center;
+        font-size: 14px;
+}
+        
+}
