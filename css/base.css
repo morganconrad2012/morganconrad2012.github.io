@@ -97,6 +97,11 @@ footer h1 {
 }
 
 @media screen and (max-width: 600px) {
+header {
+    background-color: #000000;
+    color: #ffffff;
+    height: 88px;
+}
 
 header a {
         color: #00ccff;
