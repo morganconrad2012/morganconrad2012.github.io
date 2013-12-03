@@ -85,6 +85,7 @@ ul {
 }    
 
 footer {
+    clear: both;
     padding: 5px;
     background-color: #000000;
     color: #ffffff;
